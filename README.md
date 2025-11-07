@@ -1,4 +1,4 @@
-## Practical Exam: Grocery Store Sales  
+# Practical Exam: Grocery Store Sales  
 FoodYum is a grocery store chain that is based in the United States. FoodYum sells items such as produce, meat, dairy, baked goods, snacks, and other household food staples.
 
 As food costs rise, FoodYum wants to make sure it keeps stocking products in all categories that cover a range of prices to ensure it has stock for a broad range of customers.
